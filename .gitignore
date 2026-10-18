@@ -1,0 +1,20 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Tooling
+.vscode/
+.idea/
+.codeartsdoer/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/
